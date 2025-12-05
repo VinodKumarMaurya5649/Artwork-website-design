@@ -81,21 +81,3 @@
   7. Open http://localhost:3000
 - Production: build and deploy instructions for your chosen platform (Vercel, Netlify, Docker + Kubernetes, etc.)
 
-8) How to customize the template for your repo
-- Replace placeholders [REPO_NAME_OR_URL], [DEVELOPER_NAME], [LIVE_URL], [TECH STACK] with repo details.
-- Update the “What makes it unique” section with features and differentiators implemented in your codebase.
-- Add screenshots or example links under the Home section if available.
-- Optionally convert this text into README sections or a dedicated /docs/overview.txt file.
-
-9) License & Credits
-- License: [LICENSE_NAME] — include exact license text or link to LICENSE file in the repo.
-- Credits: List core contributors, designers, and libraries.
-
-10) Next steps I can take for you
-- If you provide the repository (owner/name or URL), I can:
-  - Pull repo metadata and auto-fill all placeholders.
-  - Commit this file into the repository on a new branch and open a PR with the change.
-  - Generate a README-ready markdown version instead of a text file.
-- If you want me to auto-fill now, share the repo URL or owner/repo.
-
-End of file.
