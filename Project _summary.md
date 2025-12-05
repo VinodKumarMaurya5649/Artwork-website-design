@@ -1,9 +1,3 @@
-Art Website — Overview & Template
-
-Repository: [REPO_NAME_OR_URL]
-Branch: [BRANCH_NAME]
-Live site (if any): [LIVE_URL]
-
 1) How does it work
 - Purpose: This art website provides a platform to showcase artwork, artist profiles, galleries, and (optionally) sell or license art.
 - Flow:
